@@ -1,0 +1,4 @@
+int a,b;
+a=109;
+b=1654;
+Console.Line("Multiplication of numbers"+a+b);
